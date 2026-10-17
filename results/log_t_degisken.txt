@@ -1,0 +1,402 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:   7%|▋         | 23/338 [00:00<00:02, 118.53it/s]Loading weights:  11%|█         | 36/338 [00:00<00:03, 85.23it/s] Loading weights:  14%|█▍        | 47/338 [00:00<00:04, 68.86it/s]Loading weights:  17%|█▋        | 59/338 [00:00<00:04, 63.33it/s]Loading weights:  20%|██        | 68/338 [00:00<00:04, 63.15it/s]Loading weights:  24%|██▍       | 81/338 [00:01<00:03, 64.59it/s]Loading weights:  27%|██▋       | 92/338 [00:01<00:04, 55.71it/s]Loading weights:  32%|███▏      | 107/338 [00:01<00:03, 61.42it/s]Loading weights:  36%|███▌      | 120/338 [00:01<00:03, 63.36it/s]Loading weights:  39%|███▉      | 132/338 [00:02<00:03, 59.57it/s]Loading weights:  43%|████▎     | 144/338 [00:02<00:03, 59.32it/s]Loading weights:  46%|████▌     | 155/338 [00:02<00:03, 56.51it/s]Loading weights:  48%|████▊     | 161/338 [00:02<00:03, 46.00it/s]Loading weights:  52%|█████▏    | 176/338 [00:02<00:02, 62.52it/s]Loading weights:  54%|█████▍    | 184/338 [00:03<00:02, 55.59it/s]Loading weights:  57%|█████▋    | 191/338 [00:03<00:03, 47.81it/s]Loading weights:  59%|█████▉    | 201/338 [00:03<00:02, 49.45it/s]Loading weights:  61%|██████    | 207/338 [00:03<00:02, 51.06it/s]Loading weights:  64%|██████▍   | 216/338 [00:03<00:02, 48.18it/s]Loading weights:  66%|██████▋   | 224/338 [00:03<00:02, 52.39it/s]Loading weights:  68%|██████▊   | 230/338 [00:04<00:02, 48.37it/s]Loading weights:  70%|██████▉   | 236/338 [00:04<00:02, 41.15it/s]Loading weights:  72%|███████▏  | 245/338 [00:04<00:01, 49.97it/s]Loading weights:  74%|███████▍  | 251/338 [00:04<00:01, 48.86it/s]Loading weights:  76%|███████▌  | 257/338 [00:04<00:02, 37.88it/s]Loading weights:  81%|████████▏ | 275/338 [00:04<00:01, 49.73it/s]Loading weights:  85%|████████▍ | 287/338 [00:05<00:01, 50.90it/s]Loading weights:  88%|████████▊ | 299/338 [00:05<00:00, 49.35it/s]Loading weights:  91%|█████████▏| 309/338 [00:05<00:00, 43.97it/s]Loading weights:  95%|█████████▍| 321/338 [00:05<00:00, 50.36it/s]Loading weights:  97%|█████████▋| 328/338 [00:06<00:00, 53.43it/s]Loading weights: 100%|██████████| 338/338 [00:06<00:00, 55.99it/s]
+[1/400] k01 T=0.7 seed=degisken
+[2/400] k01 T=0.7 seed=degisken
+[3/400] k01 T=0.7 seed=degisken
+[4/400] k01 T=0.7 seed=degisken
+[5/400] k01 T=0.7 seed=degisken
+[6/400] k01 T=0.7 seed=degisken
+[7/400] k01 T=0.7 seed=degisken
+[8/400] k01 T=0.7 seed=degisken
+[9/400] k01 T=0.7 seed=degisken
+[10/400] k01 T=0.7 seed=degisken
+[11/400] k02 T=0.7 seed=degisken
+[12/400] k02 T=0.7 seed=degisken
+[13/400] k02 T=0.7 seed=degisken
+[14/400] k02 T=0.7 seed=degisken
+[15/400] k02 T=0.7 seed=degisken
+[16/400] k02 T=0.7 seed=degisken
+[17/400] k02 T=0.7 seed=degisken
+[18/400] k02 T=0.7 seed=degisken
+[19/400] k02 T=0.7 seed=degisken
+[20/400] k02 T=0.7 seed=degisken
+[21/400] k03 T=0.7 seed=degisken
+[22/400] k03 T=0.7 seed=degisken
+[23/400] k03 T=0.7 seed=degisken
+[24/400] k03 T=0.7 seed=degisken
+[25/400] k03 T=0.7 seed=degisken
+[26/400] k03 T=0.7 seed=degisken
+[27/400] k03 T=0.7 seed=degisken
+[28/400] k03 T=0.7 seed=degisken
+[29/400] k03 T=0.7 seed=degisken
+[30/400] k03 T=0.7 seed=degisken
+[31/400] k04 T=0.7 seed=degisken
+[32/400] k04 T=0.7 seed=degisken
+[33/400] k04 T=0.7 seed=degisken
+[34/400] k04 T=0.7 seed=degisken
+[35/400] k04 T=0.7 seed=degisken
+[36/400] k04 T=0.7 seed=degisken
+[37/400] k04 T=0.7 seed=degisken
+[38/400] k04 T=0.7 seed=degisken
+[39/400] k04 T=0.7 seed=degisken
+[40/400] k04 T=0.7 seed=degisken
+[41/400] k05 T=0.7 seed=degisken
+[42/400] k05 T=0.7 seed=degisken
+[43/400] k05 T=0.7 seed=degisken
+[44/400] k05 T=0.7 seed=degisken
+[45/400] k05 T=0.7 seed=degisken
+[46/400] k05 T=0.7 seed=degisken
+[47/400] k05 T=0.7 seed=degisken
+[48/400] k05 T=0.7 seed=degisken
+[49/400] k05 T=0.7 seed=degisken
+[50/400] k05 T=0.7 seed=degisken
+[51/400] k06 T=0.7 seed=degisken
+[52/400] k06 T=0.7 seed=degisken
+[53/400] k06 T=0.7 seed=degisken
+[54/400] k06 T=0.7 seed=degisken
+[55/400] k06 T=0.7 seed=degisken
+[56/400] k06 T=0.7 seed=degisken
+[57/400] k06 T=0.7 seed=degisken
+[58/400] k06 T=0.7 seed=degisken
+[59/400] k06 T=0.7 seed=degisken
+[60/400] k06 T=0.7 seed=degisken
+[61/400] k07 T=0.7 seed=degisken
+[62/400] k07 T=0.7 seed=degisken
+[63/400] k07 T=0.7 seed=degisken
+[64/400] k07 T=0.7 seed=degisken
+[65/400] k07 T=0.7 seed=degisken
+[66/400] k07 T=0.7 seed=degisken
+[67/400] k07 T=0.7 seed=degisken
+[68/400] k07 T=0.7 seed=degisken
+[69/400] k07 T=0.7 seed=degisken
+[70/400] k07 T=0.7 seed=degisken
+[71/400] o01 T=0.7 seed=degisken
+[72/400] o01 T=0.7 seed=degisken
+[73/400] o01 T=0.7 seed=degisken
+[74/400] o01 T=0.7 seed=degisken
+[75/400] o01 T=0.7 seed=degisken
+[76/400] o01 T=0.7 seed=degisken
+[77/400] o01 T=0.7 seed=degisken
+[78/400] o01 T=0.7 seed=degisken
+[79/400] o01 T=0.7 seed=degisken
+[80/400] o01 T=0.7 seed=degisken
+[81/400] o02 T=0.7 seed=degisken
+[82/400] o02 T=0.7 seed=degisken
+[83/400] o02 T=0.7 seed=degisken
+[84/400] o02 T=0.7 seed=degisken
+[85/400] o02 T=0.7 seed=degisken
+[86/400] o02 T=0.7 seed=degisken
+[87/400] o02 T=0.7 seed=degisken
+[88/400] o02 T=0.7 seed=degisken
+[89/400] o02 T=0.7 seed=degisken
+[90/400] o02 T=0.7 seed=degisken
+[91/400] o03 T=0.7 seed=degisken
+[92/400] o03 T=0.7 seed=degisken
+[93/400] o03 T=0.7 seed=degisken
+[94/400] o03 T=0.7 seed=degisken
+[95/400] o03 T=0.7 seed=degisken
+[96/400] o03 T=0.7 seed=degisken
+[97/400] o03 T=0.7 seed=degisken
+[98/400] o03 T=0.7 seed=degisken
+[99/400] o03 T=0.7 seed=degisken
+[100/400] o03 T=0.7 seed=degisken
+[101/400] o04 T=0.7 seed=degisken
+[102/400] o04 T=0.7 seed=degisken
+[103/400] o04 T=0.7 seed=degisken
+[104/400] o04 T=0.7 seed=degisken
+[105/400] o04 T=0.7 seed=degisken
+[106/400] o04 T=0.7 seed=degisken
+[107/400] o04 T=0.7 seed=degisken
+[108/400] o04 T=0.7 seed=degisken
+[109/400] o04 T=0.7 seed=degisken
+[110/400] o04 T=0.7 seed=degisken
+[111/400] o05 T=0.7 seed=degisken
+[112/400] o05 T=0.7 seed=degisken
+[113/400] o05 T=0.7 seed=degisken
+[114/400] o05 T=0.7 seed=degisken
+[115/400] o05 T=0.7 seed=degisken
+[116/400] o05 T=0.7 seed=degisken
+[117/400] o05 T=0.7 seed=degisken
+[118/400] o05 T=0.7 seed=degisken
+[119/400] o05 T=0.7 seed=degisken
+[120/400] o05 T=0.7 seed=degisken
+[121/400] o06 T=0.7 seed=degisken
+[122/400] o06 T=0.7 seed=degisken
+[123/400] o06 T=0.7 seed=degisken
+[124/400] o06 T=0.7 seed=degisken
+[125/400] o06 T=0.7 seed=degisken
+[126/400] o06 T=0.7 seed=degisken
+[127/400] o06 T=0.7 seed=degisken
+[128/400] o06 T=0.7 seed=degisken
+[129/400] o06 T=0.7 seed=degisken
+[130/400] o06 T=0.7 seed=degisken
+[131/400] o07 T=0.7 seed=degisken
+[132/400] o07 T=0.7 seed=degisken
+[133/400] o07 T=0.7 seed=degisken
+[134/400] o07 T=0.7 seed=degisken
+[135/400] o07 T=0.7 seed=degisken
+[136/400] o07 T=0.7 seed=degisken
+[137/400] o07 T=0.7 seed=degisken
+[138/400] o07 T=0.7 seed=degisken
+[139/400] o07 T=0.7 seed=degisken
+[140/400] o07 T=0.7 seed=degisken
+[141/400] o08 T=0.7 seed=degisken
+[142/400] o08 T=0.7 seed=degisken
+[143/400] o08 T=0.7 seed=degisken
+[144/400] o08 T=0.7 seed=degisken
+[145/400] o08 T=0.7 seed=degisken
+[146/400] o08 T=0.7 seed=degisken
+[147/400] o08 T=0.7 seed=degisken
+[148/400] o08 T=0.7 seed=degisken
+[149/400] o08 T=0.7 seed=degisken
+[150/400] o08 T=0.7 seed=degisken
+[151/400] z01 T=0.7 seed=degisken
+[152/400] z01 T=0.7 seed=degisken
+[153/400] z01 T=0.7 seed=degisken
+[154/400] z01 T=0.7 seed=degisken
+[155/400] z01 T=0.7 seed=degisken
+[156/400] z01 T=0.7 seed=degisken
+[157/400] z01 T=0.7 seed=degisken
+[158/400] z01 T=0.7 seed=degisken
+[159/400] z01 T=0.7 seed=degisken
+[160/400] z01 T=0.7 seed=degisken
+[161/400] z02 T=0.7 seed=degisken
+[162/400] z02 T=0.7 seed=degisken
+[163/400] z02 T=0.7 seed=degisken
+[164/400] z02 T=0.7 seed=degisken
+[165/400] z02 T=0.7 seed=degisken
+[166/400] z02 T=0.7 seed=degisken
+[167/400] z02 T=0.7 seed=degisken
+[168/400] z02 T=0.7 seed=degisken
+[169/400] z02 T=0.7 seed=degisken
+[170/400] z02 T=0.7 seed=degisken
+[171/400] z03 T=0.7 seed=degisken
+[172/400] z03 T=0.7 seed=degisken
+[173/400] z03 T=0.7 seed=degisken
+[174/400] z03 T=0.7 seed=degisken
+[175/400] z03 T=0.7 seed=degisken
+[176/400] z03 T=0.7 seed=degisken
+[177/400] z03 T=0.7 seed=degisken
+[178/400] z03 T=0.7 seed=degisken
+[179/400] z03 T=0.7 seed=degisken
+[180/400] z03 T=0.7 seed=degisken
+[181/400] z04 T=0.7 seed=degisken
+[182/400] z04 T=0.7 seed=degisken
+[183/400] z04 T=0.7 seed=degisken
+[184/400] z04 T=0.7 seed=degisken
+[185/400] z04 T=0.7 seed=degisken
+[186/400] z04 T=0.7 seed=degisken
+[187/400] z04 T=0.7 seed=degisken
+[188/400] z04 T=0.7 seed=degisken
+[189/400] z04 T=0.7 seed=degisken
+[190/400] z04 T=0.7 seed=degisken
+[191/400] z05 T=0.7 seed=degisken
+[192/400] z05 T=0.7 seed=degisken
+[193/400] z05 T=0.7 seed=degisken
+[194/400] z05 T=0.7 seed=degisken
+[195/400] z05 T=0.7 seed=degisken
+[196/400] z05 T=0.7 seed=degisken
+[197/400] z05 T=0.7 seed=degisken
+[198/400] z05 T=0.7 seed=degisken
+[199/400] z05 T=0.7 seed=degisken
+[200/400] z05 T=0.7 seed=degisken
+[201/400] k01 T=1.0 seed=degisken
+[202/400] k01 T=1.0 seed=degisken
+[203/400] k01 T=1.0 seed=degisken
+[204/400] k01 T=1.0 seed=degisken
+[205/400] k01 T=1.0 seed=degisken
+[206/400] k01 T=1.0 seed=degisken
+[207/400] k01 T=1.0 seed=degisken
+[208/400] k01 T=1.0 seed=degisken
+[209/400] k01 T=1.0 seed=degisken
+[210/400] k01 T=1.0 seed=degisken
+[211/400] k02 T=1.0 seed=degisken
+[212/400] k02 T=1.0 seed=degisken
+[213/400] k02 T=1.0 seed=degisken
+[214/400] k02 T=1.0 seed=degisken
+[215/400] k02 T=1.0 seed=degisken
+[216/400] k02 T=1.0 seed=degisken
+[217/400] k02 T=1.0 seed=degisken
+[218/400] k02 T=1.0 seed=degisken
+[219/400] k02 T=1.0 seed=degisken
+[220/400] k02 T=1.0 seed=degisken
+[221/400] k03 T=1.0 seed=degisken
+[222/400] k03 T=1.0 seed=degisken
+[223/400] k03 T=1.0 seed=degisken
+[224/400] k03 T=1.0 seed=degisken
+[225/400] k03 T=1.0 seed=degisken
+[226/400] k03 T=1.0 seed=degisken
+[227/400] k03 T=1.0 seed=degisken
+[228/400] k03 T=1.0 seed=degisken
+[229/400] k03 T=1.0 seed=degisken
+[230/400] k03 T=1.0 seed=degisken
+[231/400] k04 T=1.0 seed=degisken
+[232/400] k04 T=1.0 seed=degisken
+[233/400] k04 T=1.0 seed=degisken
+[234/400] k04 T=1.0 seed=degisken
+[235/400] k04 T=1.0 seed=degisken
+[236/400] k04 T=1.0 seed=degisken
+[237/400] k04 T=1.0 seed=degisken
+[238/400] k04 T=1.0 seed=degisken
+[239/400] k04 T=1.0 seed=degisken
+[240/400] k04 T=1.0 seed=degisken
+[241/400] k05 T=1.0 seed=degisken
+[242/400] k05 T=1.0 seed=degisken
+[243/400] k05 T=1.0 seed=degisken
+[244/400] k05 T=1.0 seed=degisken
+[245/400] k05 T=1.0 seed=degisken
+[246/400] k05 T=1.0 seed=degisken
+[247/400] k05 T=1.0 seed=degisken
+[248/400] k05 T=1.0 seed=degisken
+[249/400] k05 T=1.0 seed=degisken
+[250/400] k05 T=1.0 seed=degisken
+[251/400] k06 T=1.0 seed=degisken
+[252/400] k06 T=1.0 seed=degisken
+[253/400] k06 T=1.0 seed=degisken
+[254/400] k06 T=1.0 seed=degisken
+[255/400] k06 T=1.0 seed=degisken
+[256/400] k06 T=1.0 seed=degisken
+[257/400] k06 T=1.0 seed=degisken
+[258/400] k06 T=1.0 seed=degisken
+[259/400] k06 T=1.0 seed=degisken
+[260/400] k06 T=1.0 seed=degisken
+[261/400] k07 T=1.0 seed=degisken
+[262/400] k07 T=1.0 seed=degisken
+[263/400] k07 T=1.0 seed=degisken
+[264/400] k07 T=1.0 seed=degisken
+[265/400] k07 T=1.0 seed=degisken
+[266/400] k07 T=1.0 seed=degisken
+[267/400] k07 T=1.0 seed=degisken
+[268/400] k07 T=1.0 seed=degisken
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:   7%|▋         | 23/338 [00:00<00:01, 157.51it/s]Loading weights:  12%|█▏        | 39/338 [00:00<00:02, 121.38it/s]Loading weights:  15%|█▌        | 52/338 [00:00<00:02, 113.44it/s]Loading weights:  19%|█▉        | 64/338 [00:00<00:02, 113.33it/s]Loading weights:  22%|██▏       | 76/338 [00:00<00:02, 110.93it/s]Loading weights:  26%|██▌       | 88/338 [00:00<00:02, 107.03it/s]Loading weights:  29%|██▉       | 99/338 [00:00<00:02, 107.35it/s]Loading weights:  33%|███▎      | 110/338 [00:00<00:02, 103.31it/s]Loading weights:  36%|███▌      | 121/338 [00:01<00:02, 100.06it/s]Loading weights:  39%|███▉      | 132/338 [00:01<00:02, 99.56it/s] Loading weights:  43%|████▎     | 144/338 [00:01<00:01, 102.83it/s]Loading weights:  46%|████▌     | 156/338 [00:01<00:01, 103.22it/s]Loading weights:  49%|████▉     | 167/338 [00:01<00:01, 102.98it/s]Loading weights:  53%|█████▎    | 180/338 [00:01<00:01, 103.11it/s]Loading weights:  57%|█████▋    | 191/338 [00:01<00:01, 99.58it/s] Loading weights:  61%|██████    | 205/338 [00:01<00:01, 102.84it/s]Loading weights:  64%|██████▍   | 216/338 [00:02<00:01, 103.19it/s]Loading weights:  67%|██████▋   | 227/338 [00:02<00:01, 100.09it/s]Loading weights:  71%|███████   | 240/338 [00:02<00:00, 101.42it/s]Loading weights:  75%|███████▍  | 252/338 [00:02<00:00, 101.97it/s]Loading weights:  78%|███████▊  | 264/338 [00:02<00:00, 102.73it/s]Loading weights:  82%|████████▏ | 277/338 [00:02<00:00, 102.06it/s]Loading weights:  85%|████████▌ | 288/338 [00:02<00:00, 101.16it/s]Loading weights:  89%|████████▉ | 300/338 [00:02<00:00, 100.85it/s]Loading weights:  92%|█████████▏| 312/338 [00:02<00:00, 99.94it/s] Loading weights:  96%|█████████▌| 324/338 [00:03<00:00, 98.41it/s]Loading weights: 100%|██████████| 338/338 [00:03<00:00, 107.74it/s]
+[269/400] k07 T=1.0 seed=degisken
+[270/400] k07 T=1.0 seed=degisken
+[271/400] o01 T=1.0 seed=degisken
+[272/400] o01 T=1.0 seed=degisken
+[273/400] o01 T=1.0 seed=degisken
+[274/400] o01 T=1.0 seed=degisken
+[275/400] o01 T=1.0 seed=degisken
+[276/400] o01 T=1.0 seed=degisken
+[277/400] o01 T=1.0 seed=degisken
+[278/400] o01 T=1.0 seed=degisken
+[279/400] o01 T=1.0 seed=degisken
+[280/400] o01 T=1.0 seed=degisken
+[281/400] o02 T=1.0 seed=degisken
+[282/400] o02 T=1.0 seed=degisken
+[283/400] o02 T=1.0 seed=degisken
+[284/400] o02 T=1.0 seed=degisken
+[285/400] o02 T=1.0 seed=degisken
+[286/400] o02 T=1.0 seed=degisken
+[287/400] o02 T=1.0 seed=degisken
+[288/400] o02 T=1.0 seed=degisken
+[289/400] o02 T=1.0 seed=degisken
+[290/400] o02 T=1.0 seed=degisken
+[291/400] o03 T=1.0 seed=degisken
+[292/400] o03 T=1.0 seed=degisken
+[293/400] o03 T=1.0 seed=degisken
+[294/400] o03 T=1.0 seed=degisken
+[295/400] o03 T=1.0 seed=degisken
+[296/400] o03 T=1.0 seed=degisken
+[297/400] o03 T=1.0 seed=degisken
+[298/400] o03 T=1.0 seed=degisken
+[299/400] o03 T=1.0 seed=degisken
+[300/400] o03 T=1.0 seed=degisken
+[301/400] o04 T=1.0 seed=degisken
+[302/400] o04 T=1.0 seed=degisken
+[303/400] o04 T=1.0 seed=degisken
+[304/400] o04 T=1.0 seed=degisken
+[305/400] o04 T=1.0 seed=degisken
+[306/400] o04 T=1.0 seed=degisken
+[307/400] o04 T=1.0 seed=degisken
+[308/400] o04 T=1.0 seed=degisken
+[309/400] o04 T=1.0 seed=degisken
+[310/400] o04 T=1.0 seed=degisken
+[311/400] o05 T=1.0 seed=degisken
+[312/400] o05 T=1.0 seed=degisken
+[313/400] o05 T=1.0 seed=degisken
+[314/400] o05 T=1.0 seed=degisken
+[315/400] o05 T=1.0 seed=degisken
+[316/400] o05 T=1.0 seed=degisken
+[317/400] o05 T=1.0 seed=degisken
+[318/400] o05 T=1.0 seed=degisken
+[319/400] o05 T=1.0 seed=degisken
+[320/400] o05 T=1.0 seed=degisken
+[321/400] o06 T=1.0 seed=degisken
+[322/400] o06 T=1.0 seed=degisken
+[323/400] o06 T=1.0 seed=degisken
+[324/400] o06 T=1.0 seed=degisken
+[325/400] o06 T=1.0 seed=degisken
+[326/400] o06 T=1.0 seed=degisken
+[327/400] o06 T=1.0 seed=degisken
+[328/400] o06 T=1.0 seed=degisken
+[329/400] o06 T=1.0 seed=degisken
+[330/400] o06 T=1.0 seed=degisken
+[331/400] o07 T=1.0 seed=degisken
+[332/400] o07 T=1.0 seed=degisken
+[333/400] o07 T=1.0 seed=degisken
+[334/400] o07 T=1.0 seed=degisken
+[335/400] o07 T=1.0 seed=degisken
+[336/400] o07 T=1.0 seed=degisken
+[337/400] o07 T=1.0 seed=degisken
+[338/400] o07 T=1.0 seed=degisken
+[339/400] o07 T=1.0 seed=degisken
+[340/400] o07 T=1.0 seed=degisken
+[341/400] o08 T=1.0 seed=degisken
+[342/400] o08 T=1.0 seed=degisken
+[343/400] o08 T=1.0 seed=degisken
+[344/400] o08 T=1.0 seed=degisken
+[345/400] o08 T=1.0 seed=degisken
+[346/400] o08 T=1.0 seed=degisken
+[347/400] o08 T=1.0 seed=degisken
+[348/400] o08 T=1.0 seed=degisken
+[349/400] o08 T=1.0 seed=degisken
+[350/400] o08 T=1.0 seed=degisken
+[351/400] z01 T=1.0 seed=degisken
+[352/400] z01 T=1.0 seed=degisken
+[353/400] z01 T=1.0 seed=degisken
+[354/400] z01 T=1.0 seed=degisken
+[355/400] z01 T=1.0 seed=degisken
+[356/400] z01 T=1.0 seed=degisken
+[357/400] z01 T=1.0 seed=degisken
+[358/400] z01 T=1.0 seed=degisken
+[359/400] z01 T=1.0 seed=degisken
+[360/400] z01 T=1.0 seed=degisken
+[361/400] z02 T=1.0 seed=degisken
+[362/400] z02 T=1.0 seed=degisken
+[363/400] z02 T=1.0 seed=degisken
+[364/400] z02 T=1.0 seed=degisken
+[365/400] z02 T=1.0 seed=degisken
+[366/400] z02 T=1.0 seed=degisken
+[367/400] z02 T=1.0 seed=degisken
+[368/400] z02 T=1.0 seed=degisken
+[369/400] z02 T=1.0 seed=degisken
+[370/400] z02 T=1.0 seed=degisken
+[371/400] z03 T=1.0 seed=degisken
+[372/400] z03 T=1.0 seed=degisken
+[373/400] z03 T=1.0 seed=degisken
+[374/400] z03 T=1.0 seed=degisken
+[375/400] z03 T=1.0 seed=degisken
+[376/400] z03 T=1.0 seed=degisken
+[377/400] z03 T=1.0 seed=degisken
+[378/400] z03 T=1.0 seed=degisken
+[379/400] z03 T=1.0 seed=degisken
+[380/400] z03 T=1.0 seed=degisken
+[381/400] z04 T=1.0 seed=degisken
+[382/400] z04 T=1.0 seed=degisken
+[383/400] z04 T=1.0 seed=degisken
+[384/400] z04 T=1.0 seed=degisken
+[385/400] z04 T=1.0 seed=degisken
+[386/400] z04 T=1.0 seed=degisken
+[387/400] z04 T=1.0 seed=degisken
+[388/400] z04 T=1.0 seed=degisken
+[389/400] z04 T=1.0 seed=degisken
+[390/400] z04 T=1.0 seed=degisken
+[391/400] z05 T=1.0 seed=degisken
+[392/400] z05 T=1.0 seed=degisken
+[393/400] z05 T=1.0 seed=degisken
+[394/400] z05 T=1.0 seed=degisken
+[395/400] z05 T=1.0 seed=degisken
+[396/400] z05 T=1.0 seed=degisken
+[397/400] z05 T=1.0 seed=degisken
+[398/400] z05 T=1.0 seed=degisken
+[399/400] z05 T=1.0 seed=degisken
+[400/400] z05 T=1.0 seed=degisken

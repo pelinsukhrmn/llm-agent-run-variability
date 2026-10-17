@@ -119,6 +119,28 @@ def ci_daralma(df: pd.DataFrame) -> pd.DataFrame:
     return pd.DataFrame(satirlar)
 
 
+def hata_turu(r) -> str:
+    """Koşunun sonucunu tek bir sınıfa atar (öncelik sırası önemlidir)."""
+    if r["basarili"]:
+        return "basarili"
+    if r["adim_limiti_asildi"]:
+        return "adim_limiti"
+    if not r["adimlar"]:
+        return "arac_cagrisi_yok"
+    if any(a["arac"] == "parse_hatasi" for a in r["adimlar"]):
+        return "bozuk_arac_cagrisi"
+    if any(str(a["gozlem"]).startswith("HATA") for a in r["adimlar"]):
+        return "arac_hatasi_alindi"
+    return "hatasiz_yorunge_yanlis_cevap"
+
+
+def hata_tablosu(df: pd.DataFrame) -> pd.DataFrame:
+    """Sıcaklık, seed modu ve zorluğa göre sonuç türlerinin oranları."""
+    tur = df.apply(hata_turu, axis=1)
+    return (pd.crosstab([df.sicaklik, df.seed_modu, df.zorluk], tur, normalize="index")
+            .reset_index().rename_axis(columns=None))
+
+
 def batch_karsilastir(df1: pd.DataFrame, df8: pd.DataFrame) -> pd.DataFrame:
     """S4: aynı görev, sıcaklık 0 ve sabit seed altında batch=1 ile batch=N'in baskın çıktılarını karşılaştırır."""
     satirlar = []
@@ -216,6 +238,7 @@ def main():
     genel.to_csv(out / "genel_metrikler.csv", index=False)
     yanilgi.to_csv(out / "tek_kosu_yanilgisi.csv", index=False)
     daralma.to_csv(out / "ci_daralma.csv", index=False)
+    hata_tablosu(df).to_csv(out / "hata_turleri.csv", index=False)
     grafikler(gt, genel, daralma, out)
 
     pd.set_option("display.width", 200)

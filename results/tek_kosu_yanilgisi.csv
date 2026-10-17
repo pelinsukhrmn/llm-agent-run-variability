@@ -1,0 +1,5 @@
+sicaklik,seed_modu,tum_kosu_basari,tek_kosu_ort_mutlak_sapma,tek_kosu_maks_sapma,tek_kosu_ci_disi_orani
+0.0,degisken,0.3,0.0,0.0,0.0
+0.0,sabit,0.3,0.0,0.0,0.0
+0.7,degisken,0.225,0.04995,0.17500000000000002,0.3975
+1.0,degisken,0.085,0.045700000000000005,0.16499999999999998,0.6765

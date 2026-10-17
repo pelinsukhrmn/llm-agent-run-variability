@@ -53,3 +53,15 @@ def test_wilson_ve_sapma():
     assert ilk_sapma_adimi([a, a]) is None
     assert ilk_sapma_adimi([a, b]) == 1
     assert ilk_sapma_adimi([a, a + b]) == 2
+
+
+def test_hata_turu():
+    from analysis import hata_turu
+
+    temel = {"basarili": False, "adim_limiti_asildi": False}
+    assert hata_turu({**temel, "basarili": True, "adimlar": []}) == "basarili"
+    assert hata_turu({**temel, "adimlar": []}) == "arac_cagrisi_yok"
+    hatali = [{"arac": "sozluk_ara", "argumanlar": {}, "gozlem": "HATA: yok"}]
+    assert hata_turu({**temel, "adimlar": hatali}) == "arac_hatasi_alindi"
+    temiz = [{"arac": "sozluk_ara", "argumanlar": {}, "gozlem": "450"}]
+    assert hata_turu({**temel, "adimlar": temiz}) == "hatasiz_yorunge_yanlis_cevap"
