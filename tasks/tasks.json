@@ -1,0 +1,418 @@
+[
+  {
+    "id": "k01",
+    "zorluk": "kolay",
+    "soru": "İstanbul ile Sakarya arası mesafe kaç km?",
+    "cevap": 150.0,
+    "referans_yorunge": [
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "istanbul_sakarya_mesafe_km"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "zorluk": "kolay",
+    "soru": "Everest'in yüksekliği kaç metredir?",
+    "cevap": 8849.0,
+    "referans_yorunge": [
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "everest_yukseklik_m"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "zorluk": "kolay",
+    "soru": "125 km kaç mildir?",
+    "cevap": 77.671399,
+    "referans_yorunge": [
+      {
+        "arac": "birim_cevir",
+        "argumanlar": {
+          "deger": 125,
+          "kaynak": "km",
+          "hedef": "mil"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "zorluk": "kolay",
+    "soru": "3 saat kaç saniyedir?",
+    "cevap": 10800.0,
+    "referans_yorunge": [
+      {
+        "arac": "birim_cevir",
+        "argumanlar": {
+          "deger": 3,
+          "kaynak": "saat",
+          "hedef": "saniye"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "zorluk": "kolay",
+    "soru": "48 * 37 + 19 işleminin sonucu kaçtır?",
+    "cevap": 1795.0,
+    "referans_yorunge": [
+      {
+        "arac": "hesapla",
+        "argumanlar": {
+          "ifade": "48*37+19"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "zorluk": "kolay",
+    "soru": "70 kg kaç pound (lb) eder?",
+    "cevap": 154.323584,
+    "referans_yorunge": [
+      {
+        "arac": "birim_cevir",
+        "argumanlar": {
+          "deger": 70,
+          "kaynak": "kg",
+          "hedef": "lb"
+        }
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "zorluk": "kolay",
+    "soru": "Bir maraton kaç km'dir?",
+    "cevap": 42.195,
+    "referans_yorunge": [
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "bir_maraton_km"
+        }
+      }
+    ]
+  },
+  {
+    "id": "o01",
+    "zorluk": "orta",
+    "soru": "Ankara ile İstanbul arası mesafeyi mil cinsinden yaz.",
+    "cevap": 279.617037,
+    "referans_yorunge": [
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "ankara_istanbul_mesafe_km"
+        }
+      },
+      {
+        "arac": "birim_cevir",
+        "argumanlar": {
+          "deger": 450,
+          "kaynak": "km",
+          "hedef": "mil"
+        }
+      }
+    ]
+  },
+  {
+    "id": "o02",
+    "zorluk": "orta",
+    "soru": "Sakarya'nın nüfusunun %15'i kaç kişidir?",
+    "cevap": 165000.0,
+    "referans_yorunge": [
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "sakarya_nufus"
+        }
+      },
+      {
+        "arac": "hesapla",
+        "argumanlar": {
+          "ifade": "1100000*0.15"
+        }
+      }
+    ]
+  },
+  {
+    "id": "o03",
+    "zorluk": "orta",
+    "soru": "3 saat 25 dakika kaç saniyedir? Sonucu 7'ye böl.",
+    "cevap": 1757.142857,
+    "referans_yorunge": [
+      {
+        "arac": "birim_cevir",
+        "argumanlar": {
+          "deger": 205,
+          "kaynak": "dakika",
+          "hedef": "saniye"
+        }
+      },
+      {
+        "arac": "hesapla",
+        "argumanlar": {
+          "ifade": "12300/7"
+        }
+      }
+    ]
+  },
+  {
+    "id": "o04",
+    "zorluk": "orta",
+    "soru": "Ağrı Dağı'nın yüksekliği kaç feet'tir?",
+    "cevap": 16853.674541,
+    "referans_yorunge": [
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "agri_dagi_yukseklik_m"
+        }
+      },
+      {
+        "arac": "birim_cevir",
+        "argumanlar": {
+          "deger": 5137,
+          "kaynak": "m",
+          "hedef": "feet"
+        }
+      }
+    ]
+  },
+  {
+    "id": "o05",
+    "zorluk": "orta",
+    "soru": "İstanbul-Berlin uçuş mesafesi kaç mildir?",
+    "cevap": 1081.185874,
+    "referans_yorunge": [
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "istanbul_berlin_ucus_km"
+        }
+      },
+      {
+        "arac": "birim_cevir",
+        "argumanlar": {
+          "deger": 1740,
+          "kaynak": "km",
+          "hedef": "mil"
+        }
+      }
+    ]
+  },
+  {
+    "id": "o06",
+    "zorluk": "orta",
+    "soru": "Bursa nüfusunun sekizde biri kaç kişidir?",
+    "cevap": 400000.0,
+    "referans_yorunge": [
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "bursa_nufus"
+        }
+      },
+      {
+        "arac": "hesapla",
+        "argumanlar": {
+          "ifade": "3200000/8"
+        }
+      }
+    ]
+  },
+  {
+    "id": "o07",
+    "zorluk": "orta",
+    "soru": "2.5 gün kaç dakikadır? Sonucu 3'e böl.",
+    "cevap": 1200.0,
+    "referans_yorunge": [
+      {
+        "arac": "birim_cevir",
+        "argumanlar": {
+          "deger": 2.5,
+          "kaynak": "gun",
+          "hedef": "dakika"
+        }
+      },
+      {
+        "arac": "hesapla",
+        "argumanlar": {
+          "ifade": "3600/3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "o08",
+    "zorluk": "orta",
+    "soru": "Boğaz Köprüsü'nün uzunluğunun 4 katı kaç km eder?",
+    "cevap": 6.24,
+    "referans_yorunge": [
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "bogaz_koprusu_uzunluk_m"
+        }
+      },
+      {
+        "arac": "hesapla",
+        "argumanlar": {
+          "ifade": "1560*4/1000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "z01",
+    "zorluk": "zor",
+    "soru": "Ankara'nın nüfusu İzmir'in nüfusunun kaç katıdır?",
+    "cevap": 1.288889,
+    "referans_yorunge": [
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "ankara_nufus"
+        }
+      },
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "izmir_nufus"
+        }
+      },
+      {
+        "arac": "hesapla",
+        "argumanlar": {
+          "ifade": "5800000/4500000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "z02",
+    "zorluk": "zor",
+    "soru": "Ankara-İzmir ve İstanbul-Antalya mesafelerinin toplamı kaç mildir?",
+    "cevap": 807.78255,
+    "referans_yorunge": [
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "ankara_izmir_mesafe_km"
+        }
+      },
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "istanbul_antalya_mesafe_km"
+        }
+      },
+      {
+        "arac": "hesapla",
+        "argumanlar": {
+          "ifade": "580+720"
+        }
+      },
+      {
+        "arac": "birim_cevir",
+        "argumanlar": {
+          "deger": 1300,
+          "kaynak": "km",
+          "hedef": "mil"
+        }
+      }
+    ]
+  },
+  {
+    "id": "z03",
+    "zorluk": "zor",
+    "soru": "2 kahve ve 3 çayın toplam fiyatı 1000 TL'nin yüzde kaçıdır?",
+    "cevap": 21.5,
+    "referans_yorunge": [
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "kahve_fiyat_tl"
+        }
+      },
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "cay_fiyat_tl"
+        }
+      },
+      {
+        "arac": "hesapla",
+        "argumanlar": {
+          "ifade": "(2*85+3*15)/1000*100"
+        }
+      }
+    ]
+  },
+  {
+    "id": "z04",
+    "zorluk": "zor",
+    "soru": "Bir maratonu 3 saat 30 dakikada koşan biri ortalama saatte kaç mil hızla koşmuştur?",
+    "cevap": 7.491071,
+    "referans_yorunge": [
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "bir_maraton_km"
+        }
+      },
+      {
+        "arac": "birim_cevir",
+        "argumanlar": {
+          "deger": 42.195,
+          "kaynak": "km",
+          "hedef": "mil"
+        }
+      },
+      {
+        "arac": "hesapla",
+        "argumanlar": {
+          "ifade": "26.21875/3.5"
+        }
+      }
+    ]
+  },
+  {
+    "id": "z05",
+    "zorluk": "zor",
+    "soru": "Saatte 800 km hızla giden bir uçak İstanbul-Londra uçuşunu kaç saniyede tamamlar?",
+    "cevap": 11250.0,
+    "referans_yorunge": [
+      {
+        "arac": "sozluk_ara",
+        "argumanlar": {
+          "anahtar": "istanbul_londra_ucus_km"
+        }
+      },
+      {
+        "arac": "hesapla",
+        "argumanlar": {
+          "ifade": "2500/800"
+        }
+      },
+      {
+        "arac": "birim_cevir",
+        "argumanlar": {
+          "deger": 3.125,
+          "kaynak": "saat",
+          "hedef": "saniye"
+        }
+      }
+    ]
+  }
+]
